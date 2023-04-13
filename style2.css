@@ -20,7 +20,7 @@ body {
     min-height: 100vh;
     width: 100%;
     font-size: 16px;
-    background: #55e8e3;
+    background:linear-gradient(173.1deg,  rgba(226,66,249,0.94) 10.2%, rgba(79,147,249,1) 77.3%);
     color: #777;
     display: flex;
     justify-content: center;
